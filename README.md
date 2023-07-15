@@ -1,6 +1,5 @@
 # Bestcloudfor.me Akademi 2023 Case 3. Görev
 - Daha önce oluşturulmuş olan Dockerfile'ın, Docker Image'a dönüştürülmesi görevi tamamlandı.
-- Bu görevi tamamlarken Docker Image oluşturmayı, Docker Hub'ı daha detaylı kullanmayı, Docker Hub'da repo oluşturmayı, Docker push komutu ile repoya image göndermeyi ve Docker pull komutu ile repodan image almayı çok daha kapsamlı şekilde öğrendim.
 - Docker Hub'da oluşturduğum ve Docker Image yüklediğim repo: https://hub.docker.com/repository/docker/ahmetulker/case-uygulamasi/general
 
 Case'in bu görevinde çalıştırdığım bütün komutla "img" dosyası içinde mevcuttur. Aşağıda yazılı şekilde de açıklamış bulunmaktayım.
